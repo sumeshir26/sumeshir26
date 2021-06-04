@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ElectronJS 
 - 😄 Pronouns: He, Him
-- ⚡ Fun fact: I love to Read!
+- ⚡ Fun fact: I am just 13!
 
 <!--
 - 🔭 I’m currently working on ...
