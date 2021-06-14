@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![sumeshir26's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumeshir26&show_icons=true&theme=radical)](https://github.com/sumeshir26/github-readme-stats)
+[![sumeshir26's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumeshir26&show_icons=true&theme=dark)](https://github.com/sumeshir26/github-readme-stats)
 
 - 🌱 I’m currently learning ElectronJS 
 - 😄 Pronouns: He, Him
