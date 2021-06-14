@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=flat-square)
-
+[![sumeshir26's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumeshir26)](https://github.com/sumeshir26/github-readme-stats)
 
 - 🌱 I’m currently learning ElectronJS 
 - 😄 Pronouns: He, Him
