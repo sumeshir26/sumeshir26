@@ -2,8 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
-### <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Google+Sans&color=1AA1F7FF&size=23&center=true&multiline=true&height=150&lines=Hello%2C+I+am+%40sumeshir26!;I+do+not+have+many+projects+on+GitHub%2C;But+I+do+have+plans+for+some!)](https://git.io/typing-svg)</div>  
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&multiline=true&lines=%F0%9F%91%8B+Hi!+I%E2%80%99m+%40sumeshir26;Check+out+my+timer+app+TimerX!)](https://git.io/typing-svg) 
   
 
 - 🌱 I’m currently learning ElectronJS 
