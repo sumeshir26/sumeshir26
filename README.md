@@ -4,7 +4,7 @@
   
 <div align="center">
   
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&font=Google+Sans&lines=%F0%9F%91%8B+Hi!+I%E2%80%99m+%40sumeshir26;Check+out+my+timer+app+TimerX!)](https://git.io/typing-svg) 
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&font=Google+Sans&lines=%F0%9F%91%8B+Hi!+I%E2%80%99m+%40sumeshir26!;Check+out+Tukaan+-the+awsome+replacement+for+Tkinter!)](https://git.io/typing-svg) 
   
 </div>  
 
