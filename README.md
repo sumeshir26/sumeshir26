@@ -8,7 +8,7 @@
   
 </div>  
 
-- 🌱 I’m currently learning Async Programming! 
+- 🌱 I’m currently learning nothing! 
   
   
 
@@ -16,8 +16,7 @@
   
   
 
-- ⚡ Fun fact: I love reading!
-  
+- ⚡ Fun fact: I exist!
   
 
 <img src="https://github-readme-stats.vercel.app/api?username=sumeshir26&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" />  
